@@ -7,7 +7,7 @@ Welcome to django_cityloc_pkg's documentation!
 ==============================================
 
 ..automodule:: django_cityloc_pkg_FERN-e
-      :members:
+      :members: FERN-e
 
 .. toctree::
    :maxdepth: 2
